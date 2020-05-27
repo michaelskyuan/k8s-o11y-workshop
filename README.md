@@ -5,7 +5,7 @@
 # Install on cloud Debian9 machines (2 cores 8GB RAM) - Strigo, GCP, etc
 sudo apt install git tmux -y
 
-git clone https://github.com/michaelhyatt/k8s-o11y-workshop.git
+git clone https://github.com/michaelskyuan/k8s-o11y-workshop.git
 
 $HOME/k8s-o11y-workshop/install/install-debian9.sh
 cd ~/k8s-o11y-workshop
